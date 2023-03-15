@@ -1,8 +1,8 @@
 """
 Semua sistaksis dasar bahasa pemograman terdiri dari:
-1. Sequential : langkah berurutan
+1. Sequential  : langkah berurutan
 2. Percabangan : langkah melompat jika kondisi terpenuhi
-3. Perulangan : mengulang langkah berkali-kali selama/sampai kondisi terpenuhi
+3. Perulangan  : mengulang langkah berkali-kali selama/sampai kondisi terpenuhi
 """
 
 # Sequential : langkah berurutan
