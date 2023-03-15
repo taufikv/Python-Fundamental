@@ -23,7 +23,7 @@ print('Dan mulai berbelanja')
 
 print('=' * 30)
 
-jumlah_botol_susu = 100
+jumlah_botol_susu = 98
 jumlah_telur      = 1446
 print(f'Jumlah botol susu {jumlah_botol_susu} botol')
 print(f'Jumlah telur {jumlah_telur} butir')
